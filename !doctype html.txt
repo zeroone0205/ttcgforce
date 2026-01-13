@@ -229,7 +229,7 @@
 
   <script>
     // ★★★ ここにデプロイしたURLを貼り付けてください ★★★
-    const API = "ここにあなたのウェブアプリURLを貼り付け";
+    const API = "https://script.google.com/macros/s/AKfycbyIv_LbWyl_TV1f43SPAAFqBC0TtmAkXoyJG7k0_juSNNkUCQiMNbIP-wHb1_ur_sHK/exec";
 
     let currentCategory = "ポケモン";
     const CACHE = {}; 
@@ -352,4 +352,5 @@
     load();
   </script>
 </body>
+
 </html>
